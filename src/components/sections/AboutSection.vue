@@ -24,6 +24,15 @@
           </p>
           
           <p>
+            On the <strong>AI/ML frontier</strong>, I'm fluent in orchestrating intelligent systems with 
+            <strong>Azure AI Foundry, OpenAI, Claude, and Open Router APIs</strong>. I build 
+            <strong>real-time knowledge graphs for AI agents</strong> and design sophisticated 
+            <strong>LLM orchestrations</strong> that power context-aware, production-grade AI applications. 
+            From RAG pipelines to multi-agent systems, I bridge the gap between cutting-edge AI capabilities 
+            and practical business solutions.
+          </p>
+          
+          <p>
             What sets me apart? A <span class="philosophy">learn → improve → deliver</span> mindset combined with 
             entrepreneurial grit and enterprise-level rigor. Whether you need a technical co-founder who codes, 
             a senior engineer who scales systems, or a strategic problem-solver who drives ROI—

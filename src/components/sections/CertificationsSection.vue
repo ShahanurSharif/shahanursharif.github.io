@@ -59,7 +59,7 @@ const certifications = [
 }
 
 .cert-icon-text {
-  font-size: 3rem;
+  font-size: 1.8rem;
   font-weight: 800;
   font-family: var(--font-heading);
   letter-spacing: -0.05em;
