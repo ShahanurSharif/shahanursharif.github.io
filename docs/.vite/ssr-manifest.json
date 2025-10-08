@@ -1,0 +1,178 @@
+{
+  "\u0000plugin-vue:export-helper": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
+  "index.html": [],
+  "node_modules/@unhead/dom/dist/index.mjs": [],
+  "node_modules/@unhead/shared/dist/index.mjs": [],
+  "node_modules/@unhead/vue/dist/shared/vue.ziyDaVMR.mjs": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/hookable/dist/index.mjs": [],
+  "node_modules/unhead/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [],
+  "node_modules/vue-router/dist/vue-router.mjs": [],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/App.vue?vue&type=style&index=0&lang.css": [],
+  "src/components/sections/AboutSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/AboutSection.vue?vue&type=style&index=0&scoped=38fa9715&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/AwardsSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/AwardsSection.vue?vue&type=style&index=0&scoped=3043a416&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/CertificationsSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/CertificationsSection.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/CertificationsSection.vue?vue&type=style&index=0&scoped=a83a6690&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ContactSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ContactSection.vue?vue&type=style&index=0&scoped=4c82c53b&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/EducationSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/EducationSection.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/EducationSection.vue?vue&type=style&index=0&scoped=6ff83427&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ExperienceSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ExperienceSection.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ExperienceSection.vue?vue&type=style&index=0&scoped=c0588154&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/HeroSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/HeroSection.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/HeroSection.vue?vue&type=style&index=0&scoped=7a2d9839&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/HobbiesSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/HobbiesSection.vue?vue&type=style&index=0&scoped=4718cb61&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/LeadershipSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/LeadershipSection.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/LeadershipSection.vue?vue&type=style&index=0&scoped=c13b8e7f&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/MediaSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/MediaSection.vue?vue&type=style&index=0&scoped=1c490f57&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ProjectsSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ProjectsSection.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ProjectsSection.vue?vue&type=style&index=0&scoped=b8592e96&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ReferencesSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ReferencesSection.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/ReferencesSection.vue?vue&type=style&index=0&scoped=b846a95e&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/SkillsSection.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/SkillsSection.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/components/sections/SkillsSection.vue?vue&type=style&index=0&scoped=7bc6ed3c&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/main.ts": [],
+  "src/pages/Home.vue": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/pages/Home.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/pages/Home.vue?vue&type=style&index=0&scoped=6f6fda80&lang.css": [
+    "./assets/Home.js",
+    "./assets/style2.css"
+  ],
+  "src/scripts/counters.ts": [],
+  "src/scripts/doodles.ts": [],
+  "src/scripts/index.ts": [],
+  "src/scripts/smooth-scroll.ts": [],
+  "src/styles/main.css": []
+}

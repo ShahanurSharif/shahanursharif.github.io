@@ -1,0 +1,21 @@
+{
+  "name": "Shahanur Md Sharif Portfolio",
+  "short_name": "SMS Portfolio",
+  "description": "Full-Stack Engineer & Entrepreneur - 13+ years of experience",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0B1220",
+  "theme_color": "#6EE7FF",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

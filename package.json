@@ -5,11 +5,23 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "build": "vite-ssg build",
+    "preview": "vite preview",
+    "serve": "vite preview --outDir docs"
+  },
+  "dependencies": {
+    "particles.js": "^2.0.0",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5"
   },
   "devDependencies": {
+    "@types/node": "^20.11.5",
+    "@vitejs/plugin-vue": "^5.0.3",
+    "@vue/compiler-sfc": "^3.4.15",
+    "lucide-vue-next": "^0.312.0",
     "typescript": "^5.3.3",
-    "vite": "^5.0.8"
+    "vite": "^5.0.8",
+    "vite-plugin-compression": "^0.5.1",
+    "vite-ssg": "^0.23.6"
   }
 }
