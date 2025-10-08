@@ -21,7 +21,6 @@
       <ProjectsSection id="projects" />
       <SkillsSection id="skills" />
       <CertificationsSection id="certifications" />
-      <EducationSection id="education" />
       <LeadershipSection id="leadership" />
       <MediaSection id="media" />
       <HobbiesSection id="hobbies" />
@@ -40,7 +39,6 @@ import ExperienceSection from '@/components/sections/ExperienceSection.vue';
 import ProjectsSection from '@/components/sections/ProjectsSection.vue';
 import SkillsSection from '@/components/sections/SkillsSection.vue';
 import CertificationsSection from '@/components/sections/CertificationsSection.vue';
-import EducationSection from '@/components/sections/EducationSection.vue';
 import LeadershipSection from '@/components/sections/LeadershipSection.vue';
 import MediaSection from '@/components/sections/MediaSection.vue';
 import HobbiesSection from '@/components/sections/HobbiesSection.vue';
@@ -55,7 +53,6 @@ const sections = [
   { id: 'projects', label: 'Projects' },
   { id: 'skills', label: 'Skills' },
   { id: 'certifications', label: 'Certifications' },
-  { id: 'education', label: 'Education' },
   { id: 'leadership', label: 'Leadership' },
   { id: 'media', label: 'Media' },
   { id: 'hobbies', label: 'Hobbies' },

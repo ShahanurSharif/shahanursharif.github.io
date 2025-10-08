@@ -57,18 +57,6 @@
     "./assets/Home.js",
     "./assets/style2.css"
   ],
-  "src/components/sections/EducationSection.vue": [
-    "./assets/Home.js",
-    "./assets/style2.css"
-  ],
-  "src/components/sections/EducationSection.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Home.js",
-    "./assets/style2.css"
-  ],
-  "src/components/sections/EducationSection.vue?vue&type=style&index=0&scoped=6ff83427&lang.css": [
-    "./assets/Home.js",
-    "./assets/style2.css"
-  ],
   "src/components/sections/ExperienceSection.vue": [
     "./assets/Home.js",
     "./assets/style2.css"
@@ -166,7 +154,7 @@
     "./assets/Home.js",
     "./assets/style2.css"
   ],
-  "src/pages/Home.vue?vue&type=style&index=0&scoped=6f6fda80&lang.css": [
+  "src/pages/Home.vue?vue&type=style&index=0&scoped=427136ab&lang.css": [
     "./assets/Home.js",
     "./assets/style2.css"
   ],
