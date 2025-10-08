@@ -67,8 +67,6 @@ src/
 
 ## 📫 Contact
 
-- **Email**: iyaanasehrish@gmail.com
-- **Phone**: +61 490 071 821
 - **LinkedIn**: [linkedin.com/in/shahanursharif](https://www.linkedin.com/in/shahanursharif)
 - **GitHub**: [github.com/ShahanurSharif](https://github.com/ShahanurSharif)
 - **Upwork**: [upwork.com/freelancers/shahanurmds](https://www.upwork.com/freelancers/shahanurmds)
