@@ -5,14 +5,18 @@
       
       <div class="hobbies-grid grid grid-3">
         <a href="https://www.youtube.com/@shikhi247" class="hobby-card card" target="_blank" rel="noopener noreferrer">
-          <div class="hobby-icon">📺</div>
+          <div class="hobby-icon">
+            <i class='bx bxl-youtube'></i>
+          </div>
           <h3 class="hobby-title">YouTube Channel</h3>
           <p class="hobby-description">Shikhi247 - Coding lessons and IT education</p>
           <span class="hobby-link">Visit Channel →</span>
         </a>
         
         <a href="https://www.flickr.com/photos/shahanursharif/" class="hobby-card card" target="_blank" rel="noopener noreferrer">
-          <div class="hobby-icon">📷</div>
+          <div class="hobby-icon">
+            <i class='bx bx-camera'></i>
+          </div>
           <h3 class="hobby-title">Photography</h3>
           <p class="hobby-description">Flickr portfolio</p>
           <span class="hobby-link">View Photos →</span>
@@ -22,7 +26,9 @@
            class="hobby-card card" 
            target="_blank" 
            rel="noopener noreferrer">
-          <div class="hobby-icon">🎸</div>
+          <div class="hobby-icon">
+            <i class='bx bx-music'></i>
+          </div>
           <h3 class="hobby-title">Guitarist</h3>
           <p class="hobby-description">Watch my guitar performance</p>
           <span class="hobby-link">Watch Video →</span>
@@ -57,6 +63,11 @@
 .hobby-icon {
   font-size: 3rem;
   margin-bottom: var(--space-md);
+  color: var(--mango);
+}
+
+.hobby-icon i {
+  font-size: 3.5rem;
 }
 
 .hobby-title {

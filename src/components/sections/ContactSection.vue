@@ -12,46 +12,46 @@
         
         <div class="contact-links">
           <a href="mailto:iyaanasehrish@gmail.com" class="contact-btn btn btn-primary">
-            ✉️ Email
+            <i class='bx bx-envelope'></i> Email
           </a>
           <a href="tel:+61490071821" class="contact-btn btn btn-primary">
-            📞 Phone
+            <i class='bx bx-phone'></i> Phone
           </a>
           <a href="https://www.linkedin.com/in/shahanursharif" 
              class="contact-btn btn btn-secondary"
              target="_blank"
              rel="noopener noreferrer">
-            💼 LinkedIn
+            <i class='bx bxl-linkedin'></i> LinkedIn
           </a>
           <a href="https://www.upwork.com/freelancers/shahanurmds" 
              class="contact-btn btn btn-secondary"
              target="_blank"
              rel="noopener noreferrer">
-            🎯 Upwork
+            <i class='bx bx-target-lock'></i> Upwork
           </a>
           <a href="https://github.com/ShahanurSharif" 
              class="contact-btn btn btn-secondary"
              target="_blank"
              rel="noopener noreferrer">
-            💻 GitHub
+            <i class='bx bxl-github'></i> GitHub
           </a>
           <a href="https://www.freelancer.com/u/babusharif" 
              class="contact-btn btn btn-secondary"
              target="_blank"
              rel="noopener noreferrer">
-            🌐 Freelancer
+            <i class='bx bx-world'></i> Freelancer
           </a>
           <a href="https://www.codester.com/microsharif" 
              class="contact-btn btn btn-secondary"
              target="_blank"
              rel="noopener noreferrer">
-            🛒 Codester
+            <i class='bx bx-store'></i> Codester
           </a>
           <a href="https://www.microdreamit.com/" 
              class="contact-btn btn btn-secondary"
              target="_blank"
              rel="noopener noreferrer">
-            🏢 MicroDreamIT
+            <i class='bx bx-buildings'></i> MicroDreamIT
           </a>
         </div>
       </div>

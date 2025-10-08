@@ -46,7 +46,7 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              🚀 Live Demo
+              <i class='bx bx-rocket'></i> Live Demo
             </a>
             <a
               v-if="project.code"
@@ -55,7 +55,7 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              💻 Code
+              <i class='bx bx-code-alt'></i> Code
             </a>
           </div>
         </article>
