@@ -41,3 +41,5 @@ coverage
 *.tsbuildinfo
 .cache
 
+# Development HTML (don't push to GitHub - use docs/ for deployment)
+/index.html
